@@ -11,9 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/fabihatasneem](https://github.com/fabihatasneem)
 
-- 📫 How to reach me **1805072@ugrad.cse.buet.ac.bd**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1M-kO7Ac9x6yx-hWioZv5iewrfMtkH-xE?usp=sharing](https://drive.google.com/drive/folders/1M-kO7Ac9x6yx-hWioZv5iewrfMtkH-xE?usp=sharing)
+- 📫 You can reach me through **1805072@ugrad.cse.buet.ac.bd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -66,3 +64,5 @@
 <h3>Social Platform</h3>
 
 ![](https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white) ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white) ![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white) ![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)
+
+<h2 align="center">~~~Hope you have a great day!~~~</h2>
