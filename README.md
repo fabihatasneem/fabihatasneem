@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabihatasneem&label=Profile%20views&color=0e75b6&style=flat" alt="fabihatasneem" /> </p>
 
-- 🔭 I’m currently busy with **assignments and projects of my undergrad life**
+- 🔭 I’m currently busy with **assignments and projects and thesis of my undergrad life**
 
 - 🤔 I’m mostly comfortable with **Backend Development**
 
