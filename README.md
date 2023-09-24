@@ -13,7 +13,7 @@
 
 - 📫 You can reach me through **1805072@ugrad.cse.buet.ac.bd**
 
--  You can view my CV from my LinkedIn profile **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
+- 📄 You can view my CV from my LinkedIn profile **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
 
 
 <div align="center">
