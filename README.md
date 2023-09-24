@@ -11,9 +11,9 @@
 
 - 👨‍💻 All of my projects are available at **[https://github.com/fabihatasneem](https://github.com/fabihatasneem)**, though most of them are still private
 
-- 📫 You can reach me through **1805072@ugrad.cse.buet.ac.bd**
+- 📫 Feel free to reach out to me for a copy of my CV **1805072@ugrad.cse.buet.ac.bd**
 
-- 📄 You can view my CV from my LinkedIn profile **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
+- 📄 You can view my work interests in my LinkedIn profile **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
 
 
 <div align="center">
