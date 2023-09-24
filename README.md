@@ -9,7 +9,7 @@
 
 - ☕ My comfort language is **Java**, maybe because I love coffee
 
-- 👨‍💻 All of my projects are available at **[https://github.com/fabihatasneem](https://github.com/fabihatasneem)**, though most of them are still private
+- 👩‍💻 All of my projects are available at **[https://github.com/fabihatasneem](https://github.com/fabihatasneem)**, though most of them are still private
 
 - 📫 Feel free to reach out to me for a copy of my CV at **1805072@ugrad.cse.buet.ac.bd**
 
