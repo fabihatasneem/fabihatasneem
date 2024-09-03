@@ -1,19 +1,15 @@
-<h1 align="center">Hey There👋, I'm Fabiha Tasneem</h1>
-<h4 align="center">An Undergraduate Student of Computer Science & Engineering from Bangladesh University of Engineering & Technology</h4>
+<h1 align="center">Hey There👋, I'm Fabiha Tasneem!</h1>
+<h4 align="center">I'm a graduate of the Department of Computer Science & Engineering (CSE) at Bangladesh University of Engineering & Technology (BUET), currently working as a Software Engineer in SynesisIT.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fabihatasneem&label=Profile%20views&color=0e75b6&style=flat" alt="fabihatasneem" /> </p>
 
-- 🔭 I’m currently busy with **assignments and projects and thesis of my undergrad life**
+- 🤔 I’m a **Fullstack Developer**
 
-- 🤔 I’m mostly comfortable with **Backend Development**
-
-- ☕ My comfort language is **Java**, maybe because I love coffee
+- 🔭 I’m currently busy with project deadlines of my work life
 
 - 👩‍💻 All of my projects are available at **[https://github.com/fabihatasneem](https://github.com/fabihatasneem)**, though most of them are still private
 
-- 📫 Feel free to reach out to me at **fabihatsnm.00@gmail.com**
-
-- 💻 You can view my work interests in my LinkedIn profile **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
+- 💻 You can view my profile in LinkedIn: **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
 
 
 <div align="center">
