@@ -9,7 +9,7 @@
 
 - 👩‍💻 All of my projects are available at **[https://github.com/fabihatasneem/repositories](https://github.com/fabihatasneem/repositories)**, though most of them are still private
 
-- 💻 You can view my profile here: **[[https://www.linkedin.com/in/fabiha-tasneem/](https://fabihatasneem.github.io/)]**
+- 💻 You can view my profile here: **[https://fabihatasneem.github.io/](https://fabihatasneem.github.io/)**
 
 
 <div align="center">
