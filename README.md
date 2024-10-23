@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently busy with project deadlines of my work life
 
-- 👩‍💻 All of my projects are available at **[https://github.com/fabihatasneem](https://github.com/fabihatasneem)**, though most of them are still private
+- 👩‍💻 All of my projects are available at **[https://github.com/fabihatasneem/repositories](https://github.com/fabihatasneem/repositories)**, though most of them are still private
 
-- 💻 You can view my profile in LinkedIn: **[https://www.linkedin.com/in/fabiha-tasneem/](https://www.linkedin.com/in/fabiha-tasneem/)**
+- 💻 You can view my profile here: **[[https://www.linkedin.com/in/fabiha-tasneem/](https://fabihatasneem.github.io/)]**
 
 
 <div align="center">
